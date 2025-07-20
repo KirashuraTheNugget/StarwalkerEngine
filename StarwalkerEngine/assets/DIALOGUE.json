@@ -1,0 +1,82 @@
+[
+	{
+		"title": "InteractTest",
+		"tags": "END",
+		"body": "* It's still W.I.P.<<END>>",
+		"position": {
+			"x": -62,
+			"y": 82
+		},
+		"colorID": 0
+	},
+	{
+		"title": "MissingThing",
+		"tags": "",
+		"body": "* You can't shake the feeling something is missing...<<END>>",
+		"position": {
+			"x": 146,
+			"y": 80
+		},
+		"colorID": 0
+	},
+	{
+		"title": "EnemyTest",
+		"tags": "",
+		"body": "* Enemy Dialogue Behavior<<END>>",
+		"position": {
+			"x": 359,
+			"y": 89
+		},
+		"colorID": 0
+	},
+	{
+		"title": "UNUSED",
+		"tags": "UNUSED0",
+		"body": "* H-Hello...? <<END>>",
+		"position": {
+			"x": 219,
+			"y": 605
+		},
+		"colorID": 0
+	},
+	{
+		"title": "UNUSED1",
+		"tags": "UNUSED1",
+		"body": "* Is anyone there?<<END>>",
+		"position": {
+			"x": 428,
+			"y": 604
+		},
+		"colorID": 0
+	},
+	{
+		"title": "UNUSED2",
+		"tags": "UNUSED2",
+		"body": "* If anyone is there, Please! Say Something!<<END>>",
+		"position": {
+			"x": 659,
+			"y": 604
+		},
+		"colorID": 0
+	},
+	{
+		"title": "UNUSED3",
+		"tags": "UNUSED3",
+		"body": "* It's dark. It's so dark.<<END>>",
+		"position": {
+			"x": 872,
+			"y": 604
+		},
+		"colorID": 0
+	},
+	{
+		"title": "AreaBlocked",
+		"tags": "",
+		"body": "*Something prevents you from going further. You feel guilty for some reason <<END>>",
+		"position": {
+			"x": 165,
+			"y": 198
+		},
+		"colorID": 0
+	}
+]
