@@ -16287,7 +16287,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 2.123142861044112,
+        "zoomFactor": 0.7494385758912513,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -24814,6 +24814,20 @@
         "folderName": "__ROOT",
         "children": [
           {
+            "folderName": "Chara",
+            "children": [
+              {
+                "objectName": "Enemy3"
+              },
+              {
+                "objectName": "Enemy2"
+              },
+              {
+                "objectName": "Enemy1"
+              }
+            ]
+          },
+          {
             "folderName": "Bullet",
             "children": [
               {
@@ -24838,6 +24852,21 @@
           {
             "folderName": "UI",
             "children": [
+              {
+                "objectName": "TP_Count"
+              },
+              {
+                "objectName": "TextBox2"
+              },
+              {
+                "objectName": "GrazeEffect"
+              },
+              {
+                "objectName": "grazehitbox"
+              },
+              {
+                "objectName": "BoxSpin"
+              },
               {
                 "objectName": "NoelleIcon"
               },
@@ -24911,30 +24940,6 @@
                 "objectName": "Box"
               }
             ]
-          },
-          {
-            "objectName": "Enemy1"
-          },
-          {
-            "objectName": "Enemy2"
-          },
-          {
-            "objectName": "Enemy3"
-          },
-          {
-            "objectName": "TextBox2"
-          },
-          {
-            "objectName": "grazehitbox"
-          },
-          {
-            "objectName": "GrazeEffect"
-          },
-          {
-            "objectName": "TP_Count"
-          },
-          {
-            "objectName": "BoxSpin"
           }
         ]
       },
