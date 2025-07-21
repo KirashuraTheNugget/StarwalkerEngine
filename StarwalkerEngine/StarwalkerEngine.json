@@ -3601,6 +3601,102 @@
         "name": "assets\\battle\\boxanim\\BBS_0046.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/battle/MoreBattleShenanagins/noellepartymarker.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\MoreBattleShenanagins\\noellepartymarker.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Chara/noelle/battle/0.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Chara/noelle/battle/0.png\",\"extension\":\".png\"}",
+        "name": "assets\\Chara\\noelle\\battle\\0.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Chara/noelle/battle/1.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Chara/noelle/battle/1.png\",\"extension\":\".png\"}",
+        "name": "assets\\Chara\\noelle\\battle\\1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Chara/noelle/battle/2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Chara/noelle/battle/2.png\",\"extension\":\".png\"}",
+        "name": "assets\\Chara\\noelle\\battle\\2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Chara/noelle/battle/3.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Chara/noelle/battle/3.png\",\"extension\":\".png\"}",
+        "name": "assets\\Chara\\noelle\\battle\\3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Chara/noelle/battle/4.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Chara/noelle/battle/4.png\",\"extension\":\".png\"}",
+        "name": "assets\\Chara\\noelle\\battle\\4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Chara/noelle/battle/5.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Chara/noelle/battle/5.png\",\"extension\":\".png\"}",
+        "name": "assets\\Chara\\noelle\\battle\\5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Chara/noelle/battle/6.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Chara/noelle/battle/6.png\",\"extension\":\".png\"}",
+        "name": "assets\\Chara\\noelle\\battle\\6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Chara/noelle/battle/7.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Chara/noelle/battle/7.png\",\"extension\":\".png\"}",
+        "name": "assets\\Chara\\noelle\\battle\\7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Chara/noelle/battle/8.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Chara/noelle/battle/8.png\",\"extension\":\".png\"}",
+        "name": "assets\\Chara\\noelle\\battle\\8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Chara/noelle/battle/9.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Chara/noelle/battle/9.png\",\"extension\":\".png\"}",
+        "name": "assets\\Chara\\noelle\\battle\\9.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Chara/noelle/battle/10.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Chara/noelle/battle/10.png\",\"extension\":\".png\"}",
+        "name": "assets\\Chara\\noelle\\battle\\10.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -13841,7 +13937,7 @@
         {
           "name": "Member3",
           "type": "string",
-          "value": "Ralsei"
+          "value": "Noelle"
         }
       ]
     },
@@ -16287,7 +16383,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7494385758912513,
+        "zoomFactor": 1.0793683450705809,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -17045,6 +17141,22 @@
               "value": 1
             }
           ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "BattleOverlay",
+          "name": "Noelle_turn",
+          "persistentUuid": "ccf1d52c-3c71-443e-9768-d99e1441063d",
+          "width": 0,
+          "x": 428,
+          "y": 326,
+          "zOrder": 33,
+          "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         }
@@ -24808,6 +24920,912 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Noelle_turn",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\MoreBattleShenanagins\\noellepartymarker.png",
+                      "points": [
+                        {
+                          "name": "Icon",
+                          "x": 28,
+                          "y": 20
+                        },
+                        {
+                          "name": "Fight",
+                          "x": 33,
+                          "y": 55
+                        },
+                        {
+                          "name": "Act",
+                          "x": 69,
+                          "y": 55
+                        },
+                        {
+                          "name": "Item",
+                          "x": 106,
+                          "y": 55
+                        },
+                        {
+                          "name": "Spare",
+                          "x": 142,
+                          "y": 55
+                        },
+                        {
+                          "name": "Defend",
+                          "x": 178,
+                          "y": 55
+                        },
+                        {
+                          "name": "Name",
+                          "x": 64,
+                          "y": 20
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 212,
+                            "y": 0
+                          },
+                          {
+                            "x": 212,
+                            "y": 36
+                          },
+                          {
+                            "x": 0,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "turn",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.035,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Chara\\noelle\\battle\\7.png",
+                      "points": [
+                        {
+                          "name": "Icon",
+                          "x": 28,
+                          "y": 20
+                        },
+                        {
+                          "name": "Fight",
+                          "x": 33,
+                          "y": 55
+                        },
+                        {
+                          "name": "Act",
+                          "x": 69,
+                          "y": 55
+                        },
+                        {
+                          "name": "Item",
+                          "x": 106,
+                          "y": 55
+                        },
+                        {
+                          "name": "Spare",
+                          "x": 142,
+                          "y": 55
+                        },
+                        {
+                          "name": "Defend",
+                          "x": 178,
+                          "y": 55
+                        },
+                        {
+                          "name": "Name",
+                          "x": 64,
+                          "y": 20
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 212,
+                            "y": 0
+                          },
+                          {
+                            "x": 212,
+                            "y": 36
+                          },
+                          {
+                            "x": 0,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Chara\\noelle\\battle\\3.png",
+                      "points": [
+                        {
+                          "name": "Icon",
+                          "x": 28,
+                          "y": 20
+                        },
+                        {
+                          "name": "Fight",
+                          "x": 33,
+                          "y": 55
+                        },
+                        {
+                          "name": "Act",
+                          "x": 69,
+                          "y": 55
+                        },
+                        {
+                          "name": "Item",
+                          "x": 106,
+                          "y": 55
+                        },
+                        {
+                          "name": "Spare",
+                          "x": 142,
+                          "y": 55
+                        },
+                        {
+                          "name": "Defend",
+                          "x": 178,
+                          "y": 55
+                        },
+                        {
+                          "name": "Name",
+                          "x": 64,
+                          "y": 20
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 212,
+                            "y": 0
+                          },
+                          {
+                            "x": 212,
+                            "y": 36
+                          },
+                          {
+                            "x": 0,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Chara\\noelle\\battle\\2.png",
+                      "points": [
+                        {
+                          "name": "Icon",
+                          "x": 28,
+                          "y": 20
+                        },
+                        {
+                          "name": "Fight",
+                          "x": 33,
+                          "y": 55
+                        },
+                        {
+                          "name": "Act",
+                          "x": 69,
+                          "y": 55
+                        },
+                        {
+                          "name": "Item",
+                          "x": 106,
+                          "y": 55
+                        },
+                        {
+                          "name": "Spare",
+                          "x": 142,
+                          "y": 55
+                        },
+                        {
+                          "name": "Defend",
+                          "x": 178,
+                          "y": 55
+                        },
+                        {
+                          "name": "Name",
+                          "x": 64,
+                          "y": 20
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 212,
+                            "y": 0
+                          },
+                          {
+                            "x": 212,
+                            "y": 36
+                          },
+                          {
+                            "x": 0,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Chara\\noelle\\battle\\1.png",
+                      "points": [
+                        {
+                          "name": "Icon",
+                          "x": 28,
+                          "y": 20
+                        },
+                        {
+                          "name": "Fight",
+                          "x": 33,
+                          "y": 55
+                        },
+                        {
+                          "name": "Act",
+                          "x": 69,
+                          "y": 55
+                        },
+                        {
+                          "name": "Item",
+                          "x": 106,
+                          "y": 55
+                        },
+                        {
+                          "name": "Spare",
+                          "x": 142,
+                          "y": 55
+                        },
+                        {
+                          "name": "Defend",
+                          "x": 178,
+                          "y": 55
+                        },
+                        {
+                          "name": "Name",
+                          "x": 64,
+                          "y": 20
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 212,
+                            "y": 0
+                          },
+                          {
+                            "x": 212,
+                            "y": 36
+                          },
+                          {
+                            "x": 0,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Chara\\noelle\\battle\\0.png",
+                      "points": [
+                        {
+                          "name": "Icon",
+                          "x": 28,
+                          "y": 20
+                        },
+                        {
+                          "name": "Fight",
+                          "x": 33,
+                          "y": 55
+                        },
+                        {
+                          "name": "Act",
+                          "x": 69,
+                          "y": 55
+                        },
+                        {
+                          "name": "Item",
+                          "x": 106,
+                          "y": 55
+                        },
+                        {
+                          "name": "Spare",
+                          "x": 142,
+                          "y": 55
+                        },
+                        {
+                          "name": "Defend",
+                          "x": 178,
+                          "y": 55
+                        },
+                        {
+                          "name": "Name",
+                          "x": 64,
+                          "y": 20
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 212,
+                            "y": 0
+                          },
+                          {
+                            "x": 212,
+                            "y": 36
+                          },
+                          {
+                            "x": 0,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Chara\\noelle\\battle\\6.png",
+                      "points": [
+                        {
+                          "name": "Icon",
+                          "x": 28,
+                          "y": 20
+                        },
+                        {
+                          "name": "Fight",
+                          "x": 33,
+                          "y": 55
+                        },
+                        {
+                          "name": "Act",
+                          "x": 69,
+                          "y": 55
+                        },
+                        {
+                          "name": "Item",
+                          "x": 106,
+                          "y": 55
+                        },
+                        {
+                          "name": "Spare",
+                          "x": 142,
+                          "y": 55
+                        },
+                        {
+                          "name": "Defend",
+                          "x": 178,
+                          "y": 55
+                        },
+                        {
+                          "name": "Name",
+                          "x": 64,
+                          "y": 20
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 212,
+                            "y": 0
+                          },
+                          {
+                            "x": 212,
+                            "y": 36
+                          },
+                          {
+                            "x": 0,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Chara\\noelle\\battle\\5.png",
+                      "points": [
+                        {
+                          "name": "Icon",
+                          "x": 28,
+                          "y": 20
+                        },
+                        {
+                          "name": "Fight",
+                          "x": 33,
+                          "y": 55
+                        },
+                        {
+                          "name": "Act",
+                          "x": 69,
+                          "y": 55
+                        },
+                        {
+                          "name": "Item",
+                          "x": 106,
+                          "y": 55
+                        },
+                        {
+                          "name": "Spare",
+                          "x": 142,
+                          "y": 55
+                        },
+                        {
+                          "name": "Defend",
+                          "x": 178,
+                          "y": 55
+                        },
+                        {
+                          "name": "Name",
+                          "x": 64,
+                          "y": 20
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 212,
+                            "y": 0
+                          },
+                          {
+                            "x": 212,
+                            "y": 36
+                          },
+                          {
+                            "x": 0,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Chara\\noelle\\battle\\4.png",
+                      "points": [
+                        {
+                          "name": "Icon",
+                          "x": 28,
+                          "y": 20
+                        },
+                        {
+                          "name": "Fight",
+                          "x": 33,
+                          "y": 55
+                        },
+                        {
+                          "name": "Act",
+                          "x": 69,
+                          "y": 55
+                        },
+                        {
+                          "name": "Item",
+                          "x": 106,
+                          "y": 55
+                        },
+                        {
+                          "name": "Spare",
+                          "x": 142,
+                          "y": 55
+                        },
+                        {
+                          "name": "Defend",
+                          "x": 178,
+                          "y": 55
+                        },
+                        {
+                          "name": "Name",
+                          "x": 64,
+                          "y": 20
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 212,
+                            "y": 0
+                          },
+                          {
+                            "x": 212,
+                            "y": 36
+                          },
+                          {
+                            "x": 0,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Chara\\noelle\\battle\\10.png",
+                      "points": [
+                        {
+                          "name": "Icon",
+                          "x": 28,
+                          "y": 20
+                        },
+                        {
+                          "name": "Fight",
+                          "x": 33,
+                          "y": 55
+                        },
+                        {
+                          "name": "Act",
+                          "x": 69,
+                          "y": 55
+                        },
+                        {
+                          "name": "Item",
+                          "x": 106,
+                          "y": 55
+                        },
+                        {
+                          "name": "Spare",
+                          "x": 142,
+                          "y": 55
+                        },
+                        {
+                          "name": "Defend",
+                          "x": 178,
+                          "y": 55
+                        },
+                        {
+                          "name": "Name",
+                          "x": 64,
+                          "y": 20
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 212,
+                            "y": 0
+                          },
+                          {
+                            "x": 212,
+                            "y": 36
+                          },
+                          {
+                            "x": 0,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Chara\\noelle\\battle\\9.png",
+                      "points": [
+                        {
+                          "name": "Icon",
+                          "x": 28,
+                          "y": 20
+                        },
+                        {
+                          "name": "Fight",
+                          "x": 33,
+                          "y": 55
+                        },
+                        {
+                          "name": "Act",
+                          "x": 69,
+                          "y": 55
+                        },
+                        {
+                          "name": "Item",
+                          "x": 106,
+                          "y": 55
+                        },
+                        {
+                          "name": "Spare",
+                          "x": 142,
+                          "y": 55
+                        },
+                        {
+                          "name": "Defend",
+                          "x": 178,
+                          "y": 55
+                        },
+                        {
+                          "name": "Name",
+                          "x": 64,
+                          "y": 20
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 212,
+                            "y": 0
+                          },
+                          {
+                            "x": 212,
+                            "y": 36
+                          },
+                          {
+                            "x": 0,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Chara\\noelle\\battle\\8.png",
+                      "points": [
+                        {
+                          "name": "Icon",
+                          "x": 28,
+                          "y": 20
+                        },
+                        {
+                          "name": "Fight",
+                          "x": 33,
+                          "y": 55
+                        },
+                        {
+                          "name": "Act",
+                          "x": 69,
+                          "y": 55
+                        },
+                        {
+                          "name": "Item",
+                          "x": 106,
+                          "y": 55
+                        },
+                        {
+                          "name": "Spare",
+                          "x": 142,
+                          "y": 55
+                        },
+                        {
+                          "name": "Defend",
+                          "x": 178,
+                          "y": 55
+                        },
+                        {
+                          "name": "Name",
+                          "x": 64,
+                          "y": 20
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 212,
+                            "y": 0
+                          },
+                          {
+                            "x": 212,
+                            "y": 36
+                          },
+                          {
+                            "x": 0,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -24899,6 +25917,9 @@
               },
               {
                 "objectName": "Kris_turn"
+              },
+              {
+                "objectName": "Noelle_turn"
               },
               {
                 "objectName": "BoxColDown"
@@ -25508,9 +26529,9 @@
                   "parameters": [
                     "NoelleIcon",
                     "=",
-                    "Ralsei_turn.PointX(\"Icon\")",
+                    "Noelle_turn.PointX(\"Icon\")",
                     "=",
-                    "Ralsei_turn.PointY(\"Icon\")"
+                    "Noelle_turn.PointY(\"Icon\")"
                   ]
                 },
                 {
@@ -26080,6 +27101,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Turn Effect Stuff",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -26255,10 +27277,27 @@
                 },
                 {
                   "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Ralsei_turn"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Montre"
                   },
                   "parameters": [
                     "NoelleIcon",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "Noelle_turn",
                     ""
                   ]
                 }
@@ -26294,6 +27333,23 @@
                   },
                   "parameters": [
                     "NoelleIcon"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "Ralsei_turn",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Noelle_turn"
                   ]
                 }
               ]
@@ -26901,7 +27957,7 @@
                     "value": "AnimatableCapability::AnimatableBehavior::SetName"
                   },
                   "parameters": [
-                    "Ralsei_turn",
+                    "Noelle_turn",
                     "Animation",
                     "=",
                     "\"turn\""
@@ -26912,7 +27968,7 @@
                     "value": "ChangePlan"
                   },
                   "parameters": [
-                    "Ralsei_turn",
+                    "Noelle_turn",
                     "=",
                     "300"
                   ]
@@ -26922,7 +27978,7 @@
                     "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
                   },
                   "parameters": [
-                    "Ralsei_turn",
+                    "Noelle_turn",
                     "Tween",
                     "\"MoveUp\"",
                     "292",
@@ -27844,6 +28900,16 @@
                     "=",
                     "2"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "StringVariable"
+                  },
+                  "parameters": [
+                    "Party.Member3",
+                    "=",
+                    "\"Ralsei\""
+                  ]
                 }
               ],
               "actions": [
@@ -27905,6 +28971,93 @@
                     "Ralsei_turn.PointX(\"Defend\")",
                     "=",
                     "Ralsei_turn.PointY(\"Defend\")"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Turn",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "StringVariable"
+                  },
+                  "parameters": [
+                    "Party.Member3",
+                    "=",
+                    "\"Noelle\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetCenter"
+                  },
+                  "parameters": [
+                    "Fight",
+                    "=",
+                    "Noelle_turn.PointX(\"Fight\")",
+                    "=",
+                    "Noelle_turn.PointY(\"Fight\")"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetCenter"
+                  },
+                  "parameters": [
+                    "Magic",
+                    "=",
+                    "Noelle_turn.PointX(\"Act\")",
+                    "=",
+                    "Noelle_turn.PointY(\"Act\")"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetCenter"
+                  },
+                  "parameters": [
+                    "Item",
+                    "=",
+                    "Noelle_turn.PointX(\"Item\")",
+                    "=",
+                    "Noelle_turn.PointY(\"Item\")"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetCenter"
+                  },
+                  "parameters": [
+                    "Spare",
+                    "=",
+                    "Noelle_turn.PointX(\"Spare\")",
+                    "=",
+                    "Noelle_turn.PointY(\"Spare\")"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetCenter"
+                  },
+                  "parameters": [
+                    "Defend",
+                    "=",
+                    "Noelle_turn.PointX(\"Defend\")",
+                    "=",
+                    "Noelle_turn.PointY(\"Defend\")"
                   ]
                 }
               ]
@@ -28083,6 +29236,16 @@
                 },
                 {
                   "type": {
+                    "value": "StringVariable"
+                  },
+                  "parameters": [
+                    "Party.Member3",
+                    "=",
+                    "\"Ralsei\""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "BuiltinCommonInstructions::Once"
                   },
                   "parameters": []
@@ -28126,6 +29289,95 @@
                   },
                   "parameters": [
                     "Ralsei_turn",
+                    "Tween",
+                    "\"MoveUp\"",
+                    "326",
+                    "\"linear\"",
+                    "0.15",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MettreX"
+                  },
+                  "parameters": [
+                    "Magic",
+                    "=",
+                    "-152"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Turn",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "StringVariable"
+                  },
+                  "parameters": [
+                    "Party.Member3",
+                    "=",
+                    "\"Noelle\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Noelle_turn",
+                    "Animation",
+                    "=",
+                    "\"idle\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangePlan"
+                  },
+                  "parameters": [
+                    "Noelle_turn",
+                    "=",
+                    "12"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangePlan"
+                  },
+                  "parameters": [
+                    "NoelleIcon",
+                    "=",
+                    "13"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+                  },
+                  "parameters": [
+                    "Noelle_turn",
                     "Tween",
                     "\"MoveUp\"",
                     "326",
@@ -32076,6 +33328,16 @@
                   },
                   "parameters": [
                     "RalseiChoice",
+                    "=",
+                    "-1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "NoelleChoice",
                     "=",
                     "-1"
                   ]
