@@ -3233,6 +3233,374 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0001.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0002.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0003.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0004.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0005.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0006.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0007.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0008.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0009.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0010.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0010.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0011.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0011.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0012.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0012.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0013.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0013.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0014.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0014.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0015.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0015.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0016.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0016.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0017.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0017.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0018.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0018.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0019.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0019.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0020.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0020.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0021.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0021.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0022.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0022.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0023.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0023.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0024.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0024.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0025.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0025.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0026.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0026.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0027.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0027.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0028.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0028.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0029.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0029.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0030.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0030.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0031.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0031.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0032.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0032.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0033.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0033.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0034.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0034.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0035.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0035.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0036.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0036.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0037.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0037.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0038.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0038.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0039.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0039.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0040.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0040.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0041.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0041.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0042.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0042.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0043.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0043.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0044.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0044.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0045.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0045.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/battle/boxanim/BBS_0046.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\battle\\boxanim\\BBS_0046.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -15919,7 +16287,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.9868866996520222,
+        "zoomFactor": 2.123142861044112,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -16326,8 +16694,8 @@
           "name": "Box",
           "persistentUuid": "6e8fab92-29bd-441e-aa0e-083de22570ee",
           "width": 0,
-          "x": 260,
-          "y": 134,
+          "x": 247,
+          "y": 96,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -16374,8 +16742,8 @@
           "name": "Fight",
           "persistentUuid": "d9ab9e4a-37e9-41a5-921a-a477dc2490f5",
           "width": 0,
-          "x": -122,
-          "y": 394,
+          "x": -91,
+          "y": 343,
           "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
@@ -16390,8 +16758,8 @@
           "name": "Act",
           "persistentUuid": "b484c05c-5e84-4de2-94e3-962cd47198cd",
           "width": 0,
-          "x": -152,
-          "y": 344,
+          "x": -91,
+          "y": 369,
           "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
@@ -16406,8 +16774,8 @@
           "name": "Item",
           "persistentUuid": "9b5db154-0fea-4811-80ae-62b4df2259b8",
           "width": 0,
-          "x": -152,
-          "y": 394,
+          "x": -122,
+          "y": 343,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -16422,8 +16790,8 @@
           "name": "Spare",
           "persistentUuid": "55651fac-ba37-4b3f-a414-01fd92e119dd",
           "width": 0,
-          "x": -92,
-          "y": 394,
+          "x": -91,
+          "y": 395,
           "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
@@ -16438,8 +16806,8 @@
           "name": "Defend",
           "persistentUuid": "327a10e4-a2f8-4290-ab07-9680908bf0f3",
           "width": 0,
-          "x": -92,
-          "y": 344,
+          "x": -122,
+          "y": 395,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -16539,7 +16907,7 @@
           "persistentUuid": "b41ca3ca-ac75-4d86-b8e0-64cbbf91154d",
           "width": 36,
           "x": 494,
-          "y": 183,
+          "y": 141,
           "zOrder": 26,
           "numberProperties": [],
           "stringProperties": [],
@@ -16655,6 +17023,28 @@
           "y": 412,
           "zOrder": 32,
           "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 480,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "BoxSpin",
+          "persistentUuid": "21637809-40e4-4302-85f7-79bbe83ee81d",
+          "width": 640,
+          "x": 0,
+          "y": 0,
+          "zOrder": 0,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
           "stringProperties": [],
           "initialVariables": []
         }
@@ -22642,6 +23032,1782 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "BoxSpin",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Enter",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0001.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0002.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0003.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0004.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0005.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0006.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0007.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0008.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0009.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0010.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0011.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0012.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0013.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0014.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0015.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0016.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0017.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0018.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0017.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "out",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0018.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0019.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0020.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0021.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0022.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0023.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0024.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0025.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0026.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0027.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0028.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0029.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0030.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0031.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0032.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0033.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0034.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0035.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0036.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0037.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0038.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0039.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0040.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0041.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0042.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0043.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0044.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0045.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\battle\\boxanim\\BBS_0046.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 628,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 328
+                          },
+                          {
+                            "x": 652,
+                            "y": 352
+                          },
+                          {
+                            "x": 628,
+                            "y": 352
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -22766,6 +24932,9 @@
           },
           {
             "objectName": "TP_Count"
+          },
+          {
+            "objectName": "BoxSpin"
           }
         ]
       },
@@ -23906,7 +26075,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Turn Effect Stuff",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -25986,6 +28154,12 @@
                     "=",
                     "4"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -26066,6 +28240,26 @@
                   "parameters": [
                     "grazehitbox"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "BoxSpin",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "BoxSpin",
+                    "Animation",
+                    "=",
+                    "\"out\""
+                  ]
                 }
               ]
             },
@@ -26081,9 +28275,37 @@
                     "=",
                     "4"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                  },
+                  "parameters": [
+                    "BoxSpin",
+                    "Animation",
+                    "=",
+                    "\"Enter\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                  },
+                  "parameters": [
+                    "BoxSpin",
+                    "Animation"
+                  ]
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "BoxSpin"
+                  ]
+                },
                 {
                   "type": {
                     "value": "Montre"
@@ -29569,7 +31791,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "More Turn BS",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -29852,6 +32073,64 @@
                     "RalseiChoice",
                     "=",
                     "-1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                  },
+                  "parameters": [
+                    "BoxSpin",
+                    "Animation",
+                    "=",
+                    "\"out\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                  },
+                  "parameters": [
+                    "BoxSpin",
+                    "Animation"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "BoxSpin",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "BoxSpin",
+                    ""
                   ]
                 }
               ]
@@ -31467,6 +33746,52 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Turn",
+                "=",
+                "4"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "BoxSpin",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::PlayAnimation"
+              },
+              "parameters": [
+                "BoxSpin",
+                "Animation"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "BoxSpin",
+                "Animation",
+                "=",
+                "\"Enter\""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
